@@ -14,3 +14,18 @@ The project allows users to view trains, check seat availability, and book ticke
 - Show all trains
 - Check seat availability
 - Book ticket
+
+
+## How to Run
+
+Step 1: Clone the repository
+git clone https://github.com/sachinprajapat09/RailwayReservationSystem.git
+
+Step 2: Go to the project folder
+cd RailwayReservationSystem
+
+Step 3: Compile the Java files
+javac com/reservationsystem/*.java
+
+Step 4: Run the program
+java com.reservationsystem.main
