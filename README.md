@@ -32,5 +32,4 @@ javac com/reservationsystem/*.java
 
 Step 4: Run the program
  ```bash
-
 java com.reservationsystem.main
